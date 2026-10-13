@@ -1,0 +1,11 @@
+{
+  "version": "0.16.0",
+  "versionCode": 18,
+  "package": "com.moideici.nemo",
+  "file": "nemo-0.16.0-debug.apk",
+  "downloadUrl": "https://raw.githubusercontent.com/moidefr/stock-apk/main/nemo-0.16.0-debug.apk",
+  "sha256": "2d5a2115c80746dc778ae3bdc1a9a79d404d4598092ebde88e6476ec80ac1238",
+  "certificateSha256": "bdeb26ec482fcbc6276ab4e731b13da704c795a3c93f32867a3144679d989ccc",
+  "sourceCommit": "0f46ffe5d386c65bb81bfe3de909aaf21dc57ebc",
+  "buildUrl": "https://github.com/moidefr/nemo-app/actions/runs/38417884533"
+}
